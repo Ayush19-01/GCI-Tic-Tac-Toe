@@ -8,7 +8,7 @@ How to play:
 
 
 
-2)Click the buttons turnwise(player one is x and palyer two is O)
+2)Click the buttons turnwise(player one is x and player two is O)
 
 
 3) Get three in a row to win!
